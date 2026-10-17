@@ -1,0 +1,35 @@
+{
+  "name": "babblehq",
+  "displayName": "BabbleHQ",
+  "version": "0.1.0",
+  "description": "Connect your BabbleHQ account so your assistant can see your clubs and upcoming events, RSVP for your player, see who hasn't answered, record attendance, and bring in a schedule or GameChanger stats. It acts as you and can only do what your account can do.",
+  "author": {
+    "name": "Tapp Network",
+    "url": "https://babblehq.com"
+  },
+  "homepage": "https://babblehq.com",
+  "repository": "https://github.com/TappNetwork/babblehq-grok-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "babblehq",
+    "sports",
+    "club",
+    "team",
+    "schedule",
+    "rsvp",
+    "attendance",
+    "softball",
+    "baseball",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "sports",
+    "schedule",
+    "rsvp",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
